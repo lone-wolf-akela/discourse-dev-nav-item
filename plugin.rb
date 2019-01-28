@@ -3,4 +3,4 @@
 # version: 0.1
 # authors: Robin Ward
 
-register_custom_html(extraNavItem: "<li><a href='/groups/developers/activity/posts'>跟踪开发者！</a></li>")
+register_custom_html(extraNavItem: "<a href='/groups/developers/activity/posts'>跟踪开发者！</a>")
